@@ -16,4 +16,4 @@ Process:
 - Drop some features to avoid overfitting.
 - Evaluate the model with confusion matrix.
 - Use the model to predict unseen images in the testing folder.
-- These are implemented in both Pytorch and Tensorflow.
+- These are implemented in both PyTorch and Tensorflow.
